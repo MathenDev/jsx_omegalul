@@ -1,0 +1,1 @@
+loadJSXInfo("/jsx_info.json", () => render("#element", "Example"));

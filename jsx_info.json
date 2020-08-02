@@ -1,0 +1,10 @@
+{
+    "base": "/jsx/",
+    "routes": {
+        "Example": "example.jsx",
+        "ABOUT": "about.jsx",
+        "AbOUT": "about.jsx",
+        "ABoUT": "about.jsx",
+        "ABOuT": "about.jsx"
+    }
+}
